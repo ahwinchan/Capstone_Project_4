@@ -2,12 +2,9 @@
 
 ![image](https://github.com/ahwinchan/Capstone_Project_4/assets/144866635/b8aebe94-7964-4488-b103-48dbf50e5905)
 
-
-
 ### Description of Dataset ###
 
-[![Image from Gyazo](https://t.gyazo.com/teams/ahwinchan/2930a91cb63fe2849a405c537095c934.png)](https://ahwinchan.gyazo.com/2930a91cb63fe2849a405c537095c934)
-
+[![Dashboard.png](https://i.postimg.cc/qRxB55Jz/Dashboard.png)](https://postimg.cc/1n4ZgMNQ)
 *The main dataset used in this capstone is the ITEMS PURCHASE Transactions in Brazil, Mexico, Colombia and Chile. It mainly consists of all transactions from 15 August 2019 to 01 January 2023 of each item. This includes customer id, item description, order date, order id, price, product name, quantity, shipping cost, shipping date and tax involved in the transactions. The dataset has a size of 50,000 rows and 11 columns*
 
 *The secondary dataset is the customer Information which serves as supplementary information. It mainly consists customer name, gender, age, country of purchase and customer id. The dataset has a size of 1001 rows and 8 columns*
