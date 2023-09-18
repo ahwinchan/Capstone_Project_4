@@ -1,4 +1,4 @@
-## Capstone_Project_4 E-Commerce Business Analytics - Purchasing Trends 
+#### Capstone_Project_4 E-Commerce Business Analytics - Purchasing Trends 
 
 ![image](https://github.com/ahwinchan/Capstone_Project_4/assets/144866635/b8aebe94-7964-4488-b103-48dbf50e5905)
 
