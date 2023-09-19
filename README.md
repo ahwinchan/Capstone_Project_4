@@ -1,11 +1,16 @@
 #### Capstone_Project_4 E-Commerce Business Analytics - Purchasing Trends 
 ![image](https://github.com/ahwinchan/Capstone_Project_4/assets/144866635/b8aebe94-7964-4488-b103-48dbf50e5905)
 
-### Description of Dataset ###
+# Description of Dataset #
 [![image001.png](https://i.postimg.cc/HsY0Br0t/image001.png)](https://postimg.cc/YjPmSqs4)
-*The main dataset used in this capstone is the ITEMS PURCHASE Transactions in Brazil, Mexico, Colombia and Chile. It mainly consists of all transactions from 15 August 2019 to 01 January 2023 of each item. This includes customer id, item description, order date, order id, price, product name, quantity, shipping cost, shipping date and tax involved in the transactions. The dataset has a size of 50,000 rows and 11 columns*
 
-*The secondary dataset is the customer Information which serves as supplementary information. It mainly consists customer name, gender, age, country of purchase and customer id. The dataset has a size of 1001 rows and 8 columns*
+### Data Cleaning and Transformation - in POWER BI
+* Clean, check null value, duplicate items
+* Merged first_name and last_name become new customer_name column
+
+The main dataset used in this capstone is the ITEMS PURCHASE ONLINE Transactions in Brazil, Mexico, Colombia and Chile. It mainly consists of all transactions from 15 August 2019 to 01 January 2023 of each item. This includes customer id, item description, order date, order id, price, product name, quantity, shipping cost, shipping date and tax involved in the transactions. __The dataset has a size of 50,000 rows and 11 columns__
+
+The secondary dataset is the customer Information which serves as supplementary information. It mainly consists customer name, gender, age, country of purchase and customer id. The dataset has a size of __1001 rows and 8 columns__
 
 *The top 10 products have been shown insight this visualization from main dataset.  For example, Curtain, lighting, wall art, rugs, Kitchen Appliances, furniture, Appliance set, Dining set, Bedding and Home décor*
 
