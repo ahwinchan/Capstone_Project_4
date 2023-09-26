@@ -2,7 +2,7 @@
 ![image](https://github.com/ahwinchan/Capstone_Project_4/assets/144866635/b8aebe94-7964-4488-b103-48dbf50e5905)
 
 # Description of Dataset #
-[![image001.png](https://i.postimg.cc/HsY0Br0t/image001.png)](https://postimg.cc/YjPmSqs4)
+[![Screenshot-2023-09-26-111557.png](https://i.postimg.cc/85BV0Mdr/Screenshot-2023-09-26-111557.png)](https://postimg.cc/PpxcLLRt)
 
 ### Data Cleaning and Transformation - in POWER BI
 + Clean, check null value, duplicate items (can observe it from View TAB - under Column distribution and column quality)
