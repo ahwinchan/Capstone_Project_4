@@ -6,7 +6,7 @@
 
 ### Data Cleaning and Transformation - in POWER BI
 + Clean, check null value, duplicate items (can observe it from View TAB - under Column distribution and column quality)
-+ Merged first_name and last_name become new customer_name column
++ Merged first_name and last_name become new customer_name
 + Create new Dax : syntax sum_ttl purchase = purchase[shipping_cost] + purchase[price] + purchase[tax]
 
 The main dataset used in this capstone is the __ITEMS PURCHASE ONLINE TRANSACTIONS__ in Brazil, Mexico, Colombia and Chile. It mainly consists of all transactions from 15 August 2019 to 01 January 2023 of each item. This includes customer id, item description, order date, order id, price, product name, quantity, shipping cost, shipping date and tax involved in the transactions. __The dataset has a size of 50,000 rows and 11 columns__
