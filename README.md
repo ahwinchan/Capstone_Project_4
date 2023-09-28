@@ -15,4 +15,6 @@ The secondary dataset is the customer Information which serves as supplementary 
 *The top 10 products have been shown insight this visualization from main dataset.  For example, Curtain, lighting, wall art, rugs, Kitchen Appliances, furniture, Appliance set, Dining set, Bedding and Home décor*
 
 *These datasets provide valuable insights into our client base. We've identified key demographics, preferences, and purchasing behaviors that will inform our marketing strategies and product offerings. Additionally, the purchase data highlights popular products and trends, which can guide inventory management and procurement decisions. By leveraging this information, we are poised to enhance customer satisfaction and drive revenue growth*
+
+
 __Feel free to drop me an email if there any: winnie_chan782003@yahoo.com.sg__
